@@ -2,6 +2,7 @@
 
 ## Built-in Exceptions hierarchy
 
+```text
 BaseException
  ├── SystemExit
  ├── KeyboardInterrupt
@@ -31,6 +32,7 @@ BaseException
       ├── NotImplementedError
       └── SyntaxError
            └── IndentationError
+```
 
 ## Descriptions
 
